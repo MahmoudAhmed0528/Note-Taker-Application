@@ -15,7 +15,7 @@ The Note Taker application allows users to create, view, and delete notes. It pr
 ## Heroku Deployment
 
 You can access a live version of this application on Heroku. Click the link below:
-[Live Heroku Deployment]()
+[Live Heroku Deployment](https://note-taker0528-0147fa6c91e6.herokuapp.com/)
 
 ## Installation
 
